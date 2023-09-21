@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="pl-PL">
+	<head>
+	<meta charset="UTF-8">
+
+	</head>
+	
+	<body>
+		<div>
+			<header>
+				<p>znacznik header</p>
+			</header>
+			<nav>znacznik navigation
+				<p>Navigation</p>
+			</nav>
+			<section>znacznik section 1
+				<article>Section 2</article>
+				<p>Section 2</p>
+			</section>
+			<section>znacznik section 2
+				<article>Section 2</article>
+				<p>znacznik section</p>
+			</section>
+			<footer>znacznik footer
+				<p>footer</p>
+			</footer>
+		</div>
+
+</table>
+	</body>
+	
+</html>
